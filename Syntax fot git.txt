@@ -1,0 +1,8 @@
+#To add your username globally for all resporatory
+command: git config --global user.name "ashutosh"
+#To add your email globally for all resporatory
+command: git config --global user.email "yourmail"
+#To get status 
+command: git status
+#To check who has done the changes
+command: git log
