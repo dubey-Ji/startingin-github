@@ -8,4 +8,3 @@ command: git status
 command: git log
 #To initialize
 command: git init
-Hey master
