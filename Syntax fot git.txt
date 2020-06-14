@@ -6,3 +6,5 @@ command: git config --global user.email "yourmail"
 command: git status
 #To check who has done the changes
 command: git log
+#To initialize
+command: git init
